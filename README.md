@@ -1,2 +1,3 @@
 # Data-Visualization-Tool
 This code is a data visualization tool that allows the user to upload a CSV file and select a type of plot (line, bar, scatter, or histogram) to visualize the data. It uses the Streamlit library to build a simple user interface and the Matplotlib library to generate the plots. 
+This is a data visualization tool that allows users to upload a CSV file and plot its data using line, bar, scatter, and histogram plot types. The tool is built using the Python programming language and the Streamlit and Matplotlib libraries. The user can select the plot type from a dropdown menu, and the plot will be displayed on the page. The code sets the option to disable the deprecation warning for the Matplotlib library to ensure smooth operation of the tool.
